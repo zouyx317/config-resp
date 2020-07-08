@@ -9,3 +9,8 @@ server:
 spring:
   application:
     name: PROD
+env:
+  dev
+userInfo:
+  name: dev
+  age: 19

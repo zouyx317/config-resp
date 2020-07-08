@@ -11,6 +11,6 @@ spring:
     name: PROD
 env:
   dev
-userInfo:
+userinfo:
   name: dev
   age: 19

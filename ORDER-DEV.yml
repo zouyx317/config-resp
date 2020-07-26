@@ -11,3 +11,6 @@ spring:
     name: ORDER
 env:
   dev
+userinfo:
+  name: zjx111
+  age: 111

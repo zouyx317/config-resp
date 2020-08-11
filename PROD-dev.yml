@@ -12,5 +12,5 @@ spring:
 env:
   dev
 userinfo:
-  name: devname3344
-  age: 3344
+  name: devname5566
+  age: 5566
